@@ -12,15 +12,13 @@
 
 - 🤝 I’m looking for help with [TegalExplore](https://github.com/Bais26/TegalExplore)
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at https://baisyufan.my.id/
 
-- 📝 I regularly write articles on [-](-)
+- 📝 I am planning to write articles about latest technologies and web development. Wait for your presence on my blog!
 
 - 💬 Ask me about **react, vue, html5, tailwindcss**
 
 - 📫 How to reach me **baisyufan26@gmail.com**
-
-- 📄 Know about my experiences [-](-)
 
 - ⚡ Fun fact **Falling in love makes you stupid, haha just kidding**
 
